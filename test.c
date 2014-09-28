@@ -3,4 +3,5 @@
 void main()
 {
 	printf("hello github!");
+	printf("hello world!");
 }
